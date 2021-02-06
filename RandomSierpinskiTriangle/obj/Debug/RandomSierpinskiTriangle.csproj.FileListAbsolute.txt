@@ -1,0 +1,10 @@
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\bin\Debug\RandomSierpinskiTriangle.exe.config
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\bin\Debug\RandomSierpinskiTriangle.exe
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\bin\Debug\RandomSierpinskiTriangle.pdb
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\obj\Debug\RandomSierpinskiTriangle.csprojAssemblyReference.cache
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\obj\Debug\RandomSierpinskiTriangle.MainForm.resources
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\obj\Debug\RandomSierpinskiTriangle.Properties.Resources.resources
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\obj\Debug\RandomSierpinskiTriangle.csproj.GenerateResource.cache
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\obj\Debug\RandomSierpinskiTriangle.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\obj\Debug\RandomSierpinskiTriangle.exe
+C:\Users\home\source\repos\RandomSierpinskiTriangle\RandomSierpinskiTriangle\obj\Debug\RandomSierpinskiTriangle.pdb
